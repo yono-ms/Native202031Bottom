@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Native202031Bottom</string>
+    <string name="home">HOME</string>
+    <string name="info">INFO</string>
 </resources>
